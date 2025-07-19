@@ -1,0 +1,9 @@
+
+treamlit
+faiss-cpu
+openai
+transformers
+torch
+pdfplumber
+PyMuPDF
+sentence-transformers 
