@@ -1,5 +1,5 @@
 
-treamlit
+streamlit
 faiss-cpu
 openai
 transformers
