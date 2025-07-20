@@ -38,16 +38,7 @@ This project integrates modern AI techniques with traditional study workflows to
   - `SentenceTransformers` for embeddings
   - `HuggingFace Transformers` (FLAN-T5) for quiz generation
   - `OpenAI GPT` (fallback) for unanswerable queries
-- **File Structure**:
-- /subjects/ # Per-subject folders containing uploaded PDFs
-/backend/
-├── pdf_utils.py # PDF reading and note extraction
-├── search_engine.py # FAISS-based search
-├── quiz_generator.py # Quiz generation with T5
-├── gpt_helper.py # GPT fallback for low-score queries
-app.py # Streamlit frontend
-requirements.txt
-
+    
 ##Future Scope
 
 -Switch to HNSW indexing for better scalability
