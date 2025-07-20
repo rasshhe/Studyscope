@@ -69,19 +69,6 @@ requirements.txt
 5.Create your subject folder and upload PDFs:
  /subjects/aiml/your_lecture_notes.pdf
 
-##Future Scope
 
--Switch to HNSW indexing for better scalability
--Add user login and cloud-based file storage
--Mobile-friendly frontend using React Native or Flutter
--Adaptive revision plans based on user performance
--GPT-4 based summarization and note condensation
--Dashboard analytics for study time and burnout history
-
-Author
-Rashi Raj
-B.Tech Computer Science (AIML)
-University of Petroleum and Energy Studies
-[GitHub Profile](https://github.com/rasshhe)
 
 
