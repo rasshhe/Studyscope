@@ -48,26 +48,6 @@ This project integrates modern AI techniques with traditional study workflows to
 app.py # Streamlit frontend
 requirements.txt
 
-
-## How to Run
-
-1. Clone the repository:
- git clone https://github.com/rasshhe/StudyScope.git
- cd StudyScope
-
-2.Create and activate a virtual environment:
-  python -m venv venv
-  source venv/bin/activate 
-
-3.Install dependencies:
- pip install -r requirements.txt
-
-4.Start the Streamlit app:
- streamlit run app.py
-
-5.Create your subject folder and upload PDFs:
- /subjects/aiml/your_lecture_notes.pdf
-
 ##Future Scope
 
 -Switch to HNSW indexing for better scalability
